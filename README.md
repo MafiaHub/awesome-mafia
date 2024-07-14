@@ -12,7 +12,7 @@ A curated list of awesome Mafia modding resources and tools.
 
 ## Communities
 
-- [Reddit - r/AfterEffects](https://www.reddit.com/r/AfterEffects/) - The After Effects subreddit for community discussions and sharing.
+- [MafiaHub](https://discord.gg/eBQ4QHX) - MafiaHub Community Discord server
 
 ## Map editors
 
