@@ -24,7 +24,7 @@ A curated list of awesome Mafia modding resources and tools.
 
 ## Contribute
 
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md) to contribute to this list.
+Contributions are welcome! Please follow our [contribution guidelines](pages/CONTRIBUTING.md) to contribute to this list.
 
 ## License
 
