@@ -12,10 +12,10 @@ municak
 : Toggles unlimited magazine ammo
 
 boxer
-: Toggles Player's hands to be big (also enlarges anything that the Player holds or drops while holding, dropped item stays enlarged and gets exponentially bigger)
+: Makes Player's hands to be big (also enlarges anything that the Player holds, when a box is dropped, it stays enlarged and gets exponentially bigger)
 
 jizda
-: Toggles roof of cabriolet cars (soft top)
+: Removes roof of cabriolet cars the Player is currently sitting in (soft top)
 
 parnik
 : Toggles models of Tommy and Grandma on the boat that goes under drawbridges (Titanic movie reference)
@@ -36,4 +36,4 @@ cornufse
 : Toggles the option to steal all cars without unlocking them by progressing through the game
 
 cumdal
-: Toggles increased draw distance (Player can see further)
+: Increases draw distance (Player can see further)
