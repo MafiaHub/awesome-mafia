@@ -14,13 +14,22 @@ A curated list of awesome Mafia modding resources and tools.
 
 - [MafiaHub](https://discord.gg/eBQ4QHX) - MafiaHub Community Discord server
 
-## Map editors
+## Map Editors
 
-- [Mafcapone](https://github.com/user-attachments/files/16227907/Mafcapone.cl-1.zip) - WIP description
+- [Mafcapone](https://github.com/user-attachments/files/16227907/Mafcapone.cl-1.zip) - Mission editor for Mafia
+
+## Script Editors
+-WIP
+
+## Text and Value editors
+-WIP
+
+## Game Patches
+-WIP
 
 ## Resources
 
-- [Some resource](pages/resource1.md) - Example of nested resource
+- [MSDR CZ](https://github.com/user-attachments/files/16228218/MSDR.CZ.pdf) - Mafia Script & Data Reference in Czech language
 
 ## Contribute
 
