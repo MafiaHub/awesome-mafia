@@ -26,7 +26,7 @@ A curated list of awesome Mafia modding resources and tools.
 -WIP
 
 ## Game Patches
--WIP
+See [patches](pages/patches.md) page.
 
 ## Resources
 
