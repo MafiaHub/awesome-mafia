@@ -8,9 +8,9 @@ A curated list of awesome Mafia modding tools and resources.
 ### [Patches](pages/patches.md)
 
 - [Communities](#communities)
-- [Map editors](#map_editors)
-- [Script editors](#script_editors)
-- [Text and Value editors](#text_and_value_editors)
+- [Map editors](#map-editors)
+- [Script editors](#script-editors)
+- [Text and Value editors](#text-and-value-editors)
 - [Resources](#resources)
 - [Contribute](#contribute)
 - [License](#license)
