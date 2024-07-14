@@ -28,4 +28,4 @@ Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUT
 
 ## License
 
-This list is licensed under the [Apache 2.0 License](LICENSE).****
+This list is licensed under the [Apache 2.0 License](LICENSE).
