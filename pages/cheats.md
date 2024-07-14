@@ -12,7 +12,7 @@ municak
 : Toggles unlimited magazine ammo
 
 boxer
-: Toggles Player's hands to be big (also enlarges anything that the Player holds or drops)
+: Toggles Player's hands to be big (also enlarges anything that the Player holds or drops while holding, dropped item stays enlarged and gets exponentially bigger)
 
 jizda
 : Toggles roof of cabriolet cars (soft top)
