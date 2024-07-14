@@ -33,7 +33,7 @@ These cheats look like they do something but in fact, they do nothing
 - Cheats from 1.0 version are also available for 1.1 and 1.2 versions
 
 cornufse
-: Toggles the option to steal all cars that the Player is not able to steal
+: Toggles the option to steal all cars without unlocking them by progressing through the game
 
 cumdal
 : Toggles increased draw distance (Player can see further)
