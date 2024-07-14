@@ -4,6 +4,9 @@ A curated list of awesome Mafia modding resources and tools.
 
 ## Contents
 
+###[Cheats](pages/cheats.md)
+###[Patches](pages/patches.md)
+
 - [Communities](#communities)
 - [Map editors](#content)
 - [Resources](#resources)
@@ -24,9 +27,6 @@ A curated list of awesome Mafia modding resources and tools.
 
 ## Text and Value editors
 -WIP
-
-## Game Patches
-See [patches](pages/patches.md) page.
 
 ## Resources
 
