@@ -12,16 +12,16 @@ municak
 : Toggles unlimited magazine ammo
 
 boxer
-: Toggles the Player's hands big (also enlarges anything that the Player holds or drops)
+: Toggles Player's hands to be big (also enlarges anything that the Player holds or drops)
 
 jizda
 : Toggles roof of cabriolet cars (soft top)
 
 parnik
-: Toggles models of Tommy and Grandma on the boat going under drawbridges (Titanic movie reference)
+: Toggles models of Tommy and Grandma on the boat that goes under drawbridges (Titanic movie reference)
 
-##### Cheats with no function
-These cheats look like they do something but infact they do nothing
+### Cheats with no function
+These cheats look like they do something but in fact, they do nothing
 - polifuck
 
 - rozmaz
