@@ -1,6 +1,6 @@
-# Awesome Mafia modding tools
+# Awesome Mafia Modding tools and Resources
 
-A curated list of awesome Mafia modding resources and tools.
+A curated list of awesome Mafia modding tools and resources.
 
 ## Contents
 
@@ -8,7 +8,9 @@ A curated list of awesome Mafia modding resources and tools.
 ### [Patches](pages/patches.md)
 
 - [Communities](#communities)
-- [Map editors](#content)
+- [Map editors](#map_editors)
+- [Script editors](#script_editors)
+- [Text and Value editors](#text_and_value_editors)
 - [Resources](#resources)
 - [Contribute](#contribute)
 - [License](#license)
