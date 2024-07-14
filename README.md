@@ -13,6 +13,7 @@ A curated list of awesome Mafia modding resources and tools.
 ## Communities
 
 - [MafiaHub](https://discord.gg/eBQ4QHX) - MafiaHub Community Discord server
+- [Greavesy's Toolbox](https://discord.gg/HFCksVXXWy) - Home of Toolkits and Community Discord server
 
 ## Map Editors
 
