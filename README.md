@@ -26,15 +26,13 @@ A curated list of awesome Mafia modding tools and resources.
 - [Mafcapone](https://github.com/user-attachments/files/16227907/Mafcapone.cl-1.zip) - Mission editor for Mafia
 
 ### Script Editors
-- [Project Angelo](https://github.com/user-attachments/files/16238313/Project_Angelo_script_inspector.zip)
-: In-game script editor and debugger for Mafia 1.0 ONLY!
+- [Project Angelo](https://github.com/user-attachments/files/16238313/Project_Angelo_script_inspector.zip) - In-game script editor and debugger for Mafia 1.0 ONLY!
 
 ### Text and Value editors
 -WIP
 
 ### Other Editors
-- [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip)
-: Mafia memory manipulation tool
+- [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
 
 ## Resources and Documentations
 
