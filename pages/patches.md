@@ -53,7 +53,7 @@ introductory video clip starts.
 - Added invisible wall to shortcut at the racetrack
 - Added the possibility to change race options before the start of the race mission
 - Sniper mode key bind gets unbound after each game restart
-- Added cheat code "cornufse" and "cumdal" more info at [Cheats list](pages/cheats.md)
+- Added cheat code "cornufse" and "cumdal" more info at [Cheats list](cheats.md)
 
 ### Unannounced changes of 1.2/1.3
 _All changes in 1.1 also apply to 1.2/1.3_
