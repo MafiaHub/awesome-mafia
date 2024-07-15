@@ -30,7 +30,7 @@ These cheats look like they do something but in fact, they do nothing
   : functionality of this cheat is available in Mafia version 1.1 and higher
 
 ## Version 1.1 and 1.2 cheats
-- Cheats from 1.0 version are also available for 1.1 and 1.2 versions
+_Cheats from 1.0 version are also available for 1.1 and 1.2 versions_
 
 cornufse
 : Toggles the option to steal all cars without unlocking them by progressing through the game
