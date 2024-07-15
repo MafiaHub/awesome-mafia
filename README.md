@@ -29,7 +29,7 @@ A curated list of awesome Mafia modding tools and resources.
 - [Project Angelo](https://github.com/user-attachments/files/16238313/Project_Angelo_script_inspector.zip) - In-game script editor and debugger for Mafia 1.0 ONLY!
 
 ### Text and Value editors
--WIP
+- [CSVtoDEF](https://github.com/user-attachments/files/16238771/CSVtoDef.zip) - Converts .csv file sheet into Mafia .def text file
 
 ### Other Editors
 - [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
@@ -37,6 +37,9 @@ A curated list of awesome Mafia modding tools and resources.
 ## Resources and Documentations
 
 - [MSDR CZ](https://github.com/user-attachments/files/16228218/MSDR.CZ.pdf) - Mafia Script & Data Reference in Czech language
+- [3D Model List](https://github.com/user-attachments/files/16238692/3D.Model.List.zip) - Characters Model list in English and Russian, Model list in Russian
+- [Zazona Modeler basics (Czech)](https://github.com/user-attachments/files/16238734/zaklady_zmodeleru.pdf) - Basic Guide for Zmodeler v1.07b/c in Czech language
+- [Cutscene Guide (Czech)](https://github.com/user-attachments/files/16238732/navod_cutsceny.pdf) - Guide for In-Game cutscenes in Czech language
 
 ## Contribute
 
