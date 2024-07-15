@@ -11,26 +11,32 @@ A curated list of awesome Mafia modding tools and resources.
 - [Map editors](#map-editors)
 - [Script editors](#script-editors)
 - [Text and Value editors](#text-and-value-editors)
-- [Resources](#resources)
+- [Other editors](#other-editors)
+- [Resources and Documentations](#resources-and-documentations)
 - [Contribute](#contribute)
 - [License](#license)
 
-## Communities
+### Communities
 
 - [MafiaHub](https://discord.gg/eBQ4QHX) - MafiaHub Community Discord server
 - [Greavesy's Toolbox](https://discord.gg/HFCksVXXWy) - Home of Toolkits and Community Discord server
 
-## Map Editors
+### Map Editors
 
 - [Mafcapone](https://github.com/user-attachments/files/16227907/Mafcapone.cl-1.zip) - Mission editor for Mafia
 
-## Script Editors
+### Script Editors
+- [Project Angelo](https://github.com/user-attachments/files/16238313/Project_Angelo_script_inspector.zip)
+: In-game script editor and debugger for Mafia 1.0 ONLY!
+
+### Text and Value editors
 -WIP
 
-## Text and Value editors
--WIP
+### Other Editors
+- [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip)
+: Mafia memory manipulation tool
 
-## Resources
+## Resources and Documentations
 
 - [MSDR CZ](https://github.com/user-attachments/files/16228218/MSDR.CZ.pdf) - Mafia Script & Data Reference in Czech language
 
