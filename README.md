@@ -8,6 +8,7 @@ A curated list of awesome Mafia modding tools and resources.
 ### [Patches](pages/patches.md)
 
 - [Communities](#communities)
+- [Editors](#editors)
 - [Map editors](#map-editors)
 - [Script editors](#script-editors)
 - [Text and Value editors](#text-and-value-editors)
@@ -20,6 +21,11 @@ A curated list of awesome Mafia modding tools and resources.
 
 - [MafiaHub](https://discord.gg/eBQ4QHX) - MafiaHub Community Discord server
 - [Greavesy's Toolbox](https://discord.gg/HFCksVXXWy) - Home of Toolkits and Community Discord server
+
+## Editors
+To start modding Mafia, you need an arsenal of various editors, but what's even more important... You **NEED** MafiaDataXTractor
+- [MafiaDataXTractor](https://github.com/user-attachments/files/16238944/MafiaDataXTractor.zip) - Extracts .dta files of Mafia to allow for modding and editing. For Mafia 1.0 use MafiaDataXTractor 1.0, for Mafia 1.1/1.2/1.3 use MafiaDataXTractor 1.1
+: To correctly extract the .dta files, place the MafiaDataXTractor to your Mafia game directory where Game.exe is located and run MafiaDataXTractor as Administrator!
 
 ### Map Editors
 
