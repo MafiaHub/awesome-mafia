@@ -54,7 +54,8 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [Zazona Modeler basics (Czech)](https://github.com/user-attachments/files/16238734/zaklady_zmodeleru.pdf) - Basic Guide for Zmodeler v1.07b/c in Czech language
 - [Cutscene Guide (Czech)](https://github.com/user-attachments/files/16238732/navod_cutsceny.pdf) - Guide for In-Game cutscenes in Czech language
 - [BScriptView v6.0 Guide](https://github.com/user-attachments/files/16255436/BScriptView.6.0.pdf) - Guide for BScriptView v6.0
-- [Model Implementation Guide](https://github.com/user-attachments/files/16255438/Mr.Robville.s.Model.Implementation.Guide.2015.pdf) - Guide explains how to take a model from any 3D program and place it in an empty scene.
+- [Model Implementation Guide](https://github.com/user-attachments/files/16255438/Mr.Robville.s.Model.Implementation.Guide.2015.pdf) - Guide explains how to take a model from any 3D program and place it in an empty scene
+- [Empty Mission](https://github.com/user-attachments/files/16255595/Empty_Mission.zip) - Empty mission, useful for creating new map or mission from scratch
 
 ## Contribute
 
