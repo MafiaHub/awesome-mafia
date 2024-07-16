@@ -9,7 +9,8 @@ A curated list of awesome Mafia modding tools and resources.
 
 - [Communities](#communities)
 - [Editors](#editors)
-  - [Map editors](#map-editors)
+  - [3D Map editors](#map-editors)
+  - [Collision editors](#collision-editors)
   - [Script editors](#script-editors)
   - [Text and Value editors](#text-and-value-editors)
   - [Other editors](#other-editors)
