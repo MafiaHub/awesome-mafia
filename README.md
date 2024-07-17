@@ -14,7 +14,9 @@ A curated list of awesome Mafia modding tools and resources.
   - [Script editors](#script-editors)
   - [Text and Value editors](#text-and-value-editors)
   - [Other editors](#other-editors)
-  - [Extraction and Conversion Tools](#extraction-and-conversion-tools)
+- [Tools](#tools)
+  - [4ds](#4ds)
+  - [5ds](#5ds)
 - [Resources and Documentations](#resources-and-documentations)
 - [Contribute](#contribute)
 - [License](#license)
@@ -45,8 +47,20 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 ### Other Editors
 - [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
 
-## Extraction and Conversion Tools
+## Tools
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip)
+
+### 4ds tools
+- [4ds Converter](https://github.com/user-attachments/files/16267266/4ds.Converter.2004.zip) - Converts .4ds model files to .obj and .wrl for use with 3D Modeling Programs (**16 BIT PROGRAM**)
+- [4ds Distance fix](https://github.com/user-attachments/files/16267267/4ds.Distance.Fix.2007.zip) - ??? Probably makes model visible on long distances?
+- [4ds From PS2 Converter](https://github.com/user-attachments/files/16267269/4ds.From.PS2.Converter.zip) - Converts .4ds models from Mafia on PS2 to models for use on Mafia PC
+- [4ds Texture Manager](https://github.com/user-attachments/files/16267271/4ds.Manager.Textures.zip) - ???
+- [Light Sector Cleaner](https://github.com/user-attachments/files/16267273/4ds.Sector.Cleaner.zip) - ??? Removes light sources from sectors?
+- [4ds Unlocker](https://github.com/user-attachments/files/16267274/4ds.Unlocker.zip) - Makes .4ds model file able to be edited with Zazona Modeler and possibly other 3D Modeling Programs
+- [4ds View](https://github.com/user-attachments/files/16267276/4ds.View.v8.3.zip) - .4ds Model viewer
+
+### 5ds tools
+- [5ds Converter](https://github.com/user-attachments/files/16267277/5ds.Converter.v1.1.zip) - Converts .3ds Animation file to .5ds Animation file for use with Mafia
 
 ## Resources and Documentations
 
