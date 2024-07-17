@@ -66,7 +66,13 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [DNC Extractor](https://github.com/user-attachments/files/16268324/DNC.Extractor.zip) - Can export and import .dnc files from and to scene2.bin file (for use with DCED 2)
 - [Dog Maker](https://github.com/user-attachments/files/16268326/Dog.Maker.zip) - Creates .dnc files of a dog using specified values by the user
 - [Draw Distance Unlimiter](https://github.com/user-attachments/files/16268327/Draw.Distance.Unlimiter.zip) - Patches cache.bin of a selected mission to increase draw distance (follow instructions given by the program)
-- 
+- [Effects.bin Editor](https://github.com/user-attachments/files/16273701/Effects.bin.Editor.zip) - Can edit effects.bin file to add or remove particle effects from a mission
+- [Glow Maker](https://github.com/user-attachments/files/16273702/Glow.Maker.zip) - ???
+- [GmfRE](https://github.com/user-attachments/files/16273703/GmfRE.v1.1.zip) - ??? Making custom font for Mafia?
+- [Check.bin Editor](https://github.com/user-attachments/files/16273704/Check.bin.Editor.EN%2BRU.zip) - Can edit and create check.bin navigation mesh for pedestrians, vehicles, enemies and more
+- [CheckRE](https://github.com/user-attachments/files/16273712/CheckRE.1.3.zip) - Can edit check.bin to add pedestrians and vehicles
+- [CHG Editor](https://github.com/user-attachments/files/16273713/CHG.Editor.v1.1.%2B.v3.0.zip) - ???
+- [CHG Maker](https://github.com/user-attachments/files/16273714/CHG.Maker.zip) - ??? Some script creator/editor?
 
 ### 4ds tools
 - [4ds Converter](https://github.com/user-attachments/files/16267266/4ds.Converter.2004.zip) - Converts .4ds model files to .obj and .wrl for use with 3D Modeling Programs (**16 BIT PROGRAM**)
