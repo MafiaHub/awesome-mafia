@@ -13,6 +13,7 @@ A curated list of awesome Mafia modding tools and resources.
   - [Collision editors](#collision-editors)
   - [Script editors](#script-editors)
   - [Text and Value editors](#text-and-value-editors)
+  - [Scene2 Editors](#scene2-editors)
   - [Other editors](#other-editors)
 - [Tools](#tools)
   - [4ds](#4ds)
@@ -44,11 +45,15 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 ### Text and Value editors
 - [CSVtoDEF](https://github.com/user-attachments/files/16238771/CSVtoDef.zip) - Converts .csv file sheet into Mafia .def text file
 
+### Scene2 Editors
+- [Boz Scene Tree Editor](https://github.com/user-attachments/files/16267683/Boz.Scene.Tree.Editor.zip) - Can edit all values of Scene2.bin mission file
+  - [Boz Scene Tree Editor on github by djbozkosz](https://github.com/djbozkosz/BozSceneTreeEditor)
+
 ### Other Editors
 - [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
 
 ## Tools
-- [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip)
+- [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
 
 ### 4ds tools
 - [4ds Converter](https://github.com/user-attachments/files/16267266/4ds.Converter.2004.zip) - Converts .4ds model files to .obj and .wrl for use with 3D Modeling Programs (**16 BIT PROGRAM**)
@@ -58,6 +63,7 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [Light Sector Cleaner](https://github.com/user-attachments/files/16267273/4ds.Sector.Cleaner.zip) - ??? Removes light sources from sectors?
 - [4ds Unlocker](https://github.com/user-attachments/files/16267274/4ds.Unlocker.zip) - Makes .4ds model file able to be edited with Zazona Modeler and possibly other 3D Modeling Programs
 - [4ds View](https://github.com/user-attachments/files/16267276/4ds.View.v8.3.zip) - .4ds Model viewer
+- [Boz 4ds Full Manager](https://github.com/user-attachments/files/16267681/Boz.4ds.Full.Manager.zip) - Can edit all values of .4ds model
 
 ### 5ds tools
 - [5ds Converter](https://github.com/user-attachments/files/16267277/5ds.Converter.v1.1.zip) - Converts .3ds Animation file to .5ds Animation file for use with Mafia
