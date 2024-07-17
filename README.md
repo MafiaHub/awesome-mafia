@@ -42,6 +42,7 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 ### Script Editors
 - [Project Angelo](https://github.com/user-attachments/files/16238313/Project_Angelo_script_inspector.zip) - In-game script editor and debugger for Mafia 1.0 ONLY!
 - [BScriptView](https://github.com/user-attachments/files/16255201/BScriptView.Collection.zip) - Scene2.bin editor and Script editor
+- [DCED 2](https://github.com/user-attachments/files/16268313/DCED2.zip) - Scene2 editor and Script editor, also known as "DONCity Editor 2"
 
 ### Text and Value editors
 - [CSVtoDEF](https://github.com/user-attachments/files/16238771/CSVtoDef.zip) - Converts .csv file sheet into Mafia .def text file
@@ -60,6 +61,11 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
 - [Car Changer](https://github.com/user-attachments/files/16268035/Car.Changer.v1.4.zip) - ???
 - [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
+- [def2bbrd](https://github.com/user-attachments/files/16268316/def2bbrd.v0.5.zip) - ???
+- [DNC Extractor](https://github.com/user-attachments/files/16268324/DNC.Extractor.zip) - Can export and import .dnc files from and to scene2.bin file (for use with DCED 2)
+- [Dog Maker](https://github.com/user-attachments/files/16268326/Dog.Maker.zip) - Creates .dnc files of a dog using specified values by the user
+- [Draw Distance Unlimiter](https://github.com/user-attachments/files/16268327/Draw.Distance.Unlimiter.zip) - Patches cache.bin of a selected mission to increase draw distance (follow instructions given by the program)
+- 
 
 ### 4ds tools
 - [4ds Converter](https://github.com/user-attachments/files/16267266/4ds.Converter.2004.zip) - Converts .4ds model files to .obj and .wrl for use with 3D Modeling Programs (**16 BIT PROGRAM**)
@@ -73,6 +79,14 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 
 ### 5ds tools
 - [5ds Converter](https://github.com/user-attachments/files/16267277/5ds.Converter.v1.1.zip) - Converts .3ds Animation file to .5ds Animation file for use with Mafia
+
+### DTA extractors and packers
+- [MafiaDataXTractor](https://github.com/user-attachments/files/16238944/MafiaDataXTractor.zip) - Most popular program for extracting .dta files
+- [DTAUnpacker](https://github.com/user-attachments/files/16268332/DTA.Unpacker.cline.zip) - Commandline program for unpacking .dta files
+  - [DTAUnpacker on github by jovan-s](https://github.com/jovan-s/DTAUnpacker)
+- [DTA Packer](https://github.com/user-attachments/files/16268337/DTAs.Packer.zip) - Adds modified files into .dta file (*documentation needed*)
+- [DTA Unpacker](https://github.com/user-attachments/files/16268335/DTA.Unpacker.zip) - Extract files from .dta files of Mafia, Hidden & Dangerous 2, Chameleon
+
 
 ## Resources and Documentations
 
