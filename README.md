@@ -13,8 +13,8 @@ A curated list of awesome Mafia modding tools and resources.
   - [Collision editors](#collision-editors)
   - [Script editors](#script-editors)
   - [Text and Value editors](#text-and-value-editors)
-  - [Scene2 Editors](#scene2-editors)
-  - [Other editors](#other-editors)
+  - [Scene2.bin Editors](#scene2.bin-editors)
+  - [Cache.bin Editors](#cache.bin-editors)
 - [Tools](#tools)
   - [4ds](#4ds)
   - [5ds](#5ds)
@@ -34,6 +34,7 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 
 ### 3D Map Editors
 - [Mafcapone](https://github.com/user-attachments/files/16227907/Mafcapone.cl-1.zip) - Mission editor for Mafia
+- [Capone](https://github.com/user-attachments/files/16268034/Capone.1.0d1.zip) - Mission editor for Mafia 1.0 ONLY
 
 ### Collision Editors
 - [TreeRE](https://github.com/user-attachments/files/16255223/TreeRE.Collection.zip) - Collision editor
@@ -44,16 +45,21 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 
 ### Text and Value editors
 - [CSVtoDEF](https://github.com/user-attachments/files/16238771/CSVtoDef.zip) - Converts .csv file sheet into Mafia .def text file
+- [Car Index Editor](https://github.com/user-attachments/files/16268038/Car.Index.Editor.zip) - ???
 
-### Scene2 Editors
+### Scene2.bin Editors
 - [Boz Scene Tree Editor](https://github.com/user-attachments/files/16267683/Boz.Scene.Tree.Editor.zip) - Can edit all values of Scene2.bin mission file
   - [Boz Scene Tree Editor on github by djbozkosz](https://github.com/djbozkosz/BozSceneTreeEditor)
-
-### Other Editors
-- [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
+ 
+### Cache.bin Editors
+- [Cache Fu!cker](https://github.com/user-attachments/files/16268030/Cache.Fucker.v1.0.zip) - ???
+- [Cache.bin Editor](https://github.com/user-attachments/files/16268032/Cache.bin.Editor.zip) - Can edit position and values of cache.bin
+- [CacheRE](https://github.com/user-attachments/files/16268033/CacheRE.v1.1.%2B.1.2.zip) - Can edit all values of cache.bin
 
 ## Tools
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
+- [Car Changer](https://github.com/user-attachments/files/16268035/Car.Changer.v1.4.zip) - ???
+- [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
 
 ### 4ds tools
 - [4ds Converter](https://github.com/user-attachments/files/16267266/4ds.Converter.2004.zip) - Converts .4ds model files to .obj and .wrl for use with 3D Modeling Programs (**16 BIT PROGRAM**)
