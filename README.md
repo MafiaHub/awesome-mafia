@@ -15,6 +15,7 @@ A curated list of awesome Mafia modding tools and resources.
   - [Text and Value editors](#text-and-value-editors)
   - [Scene2.bin Editors](#scene2.bin-editors)
   - [Cache.bin Editors](#cache.bin-editors)
+  - [Check.bin Editors](#check.bin-editors)
 - [DTA extractors and packers](#dta-extractors-and-packers)
 - [Tools](#tools)
   - [4ds](#4ds)
@@ -38,18 +39,22 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [Capone](https://github.com/user-attachments/files/16268034/Capone.1.0d1.zip) - Mission editor for Mafia 1.0 ONLY
 
 ### Collision Editors
+Mafia has a special collision file called "tree.klz"
 - [TreeRE](https://github.com/user-attachments/files/16255223/TreeRE.Collection.zip) - Collision editor
 
 ### Script Editors
+Mafia uses a special scripting language, it has no official name but the community adopted the name "Mafia Script"
 - [Project Angelo](https://github.com/user-attachments/files/16238313/Project_Angelo_script_inspector.zip) - In-game script editor and debugger for Mafia 1.0 ONLY!
 - [BScriptView](https://github.com/user-attachments/files/16255201/BScriptView.Collection.zip) - Scene2.bin editor and Script editor
 - [DCED 2](https://github.com/user-attachments/files/16268313/DCED2.zip) - Scene2 editor and Script editor, also known as "DONCity Editor 2"
 
 ### Text and Value editors
+Mafia's text is stored in tables with a .def extension
 - [CSVtoDEF](https://github.com/user-attachments/files/16238771/CSVtoDef.zip) - Converts .csv file sheet into Mafia .def text file
 - [Car Index Editor](https://github.com/user-attachments/files/16268038/Car.Index.Editor.zip) - ???
 
 ### Scene2.bin Editors
+Scene2.bin is a soul of every Mafia mission as it houses everything the player can interact with
 - [Boz Scene Tree Editor](https://github.com/user-attachments/files/16267683/Boz.Scene.Tree.Editor.zip) - Can edit all values of Scene2.bin mission file
   - [Boz Scene Tree Editor on github by djbozkosz](https://github.com/djbozkosz/BozSceneTreeEditor)
  
@@ -57,6 +62,11 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [Cache Fu!cker](https://github.com/user-attachments/files/16268030/Cache.Fucker.v1.0.zip) - ???
 - [Cache.bin Editor](https://github.com/user-attachments/files/16268032/Cache.bin.Editor.zip) - Can edit position and values of cache.bin
 - [CacheRE](https://github.com/user-attachments/files/16268033/CacheRE.v1.1.%2B.1.2.zip) - Can edit all values of cache.bin
+
+### Check.bin Editors
+Check.bin is a file where the pedestrian and vehicle mesh networks are stored, without it, Lost Heaven would be a ghost town
+- [Check.bin Editor](https://github.com/user-attachments/files/16273704/Check.bin.Editor.EN%2BRU.zip) - Can edit and create check.bin navigation mesh for pedestrians, vehicles, enemies and more
+- [CheckRE](https://github.com/user-attachments/files/16273712/CheckRE.1.3.zip) - Can edit check.bin to add pedestrians and vehicles
 
 ## Tools
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
@@ -69,12 +79,11 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [Effects.bin Editor](https://github.com/user-attachments/files/16273701/Effects.bin.Editor.zip) - Can edit effects.bin file to add or remove particle effects from a mission
 - [Glow Maker](https://github.com/user-attachments/files/16273702/Glow.Maker.zip) - ???
 - [GmfRE](https://github.com/user-attachments/files/16273703/GmfRE.v1.1.zip) - ??? Making custom font for Mafia?
-- [Check.bin Editor](https://github.com/user-attachments/files/16273704/Check.bin.Editor.EN%2BRU.zip) - Can edit and create check.bin navigation mesh for pedestrians, vehicles, enemies and more
-- [CheckRE](https://github.com/user-attachments/files/16273712/CheckRE.1.3.zip) - Can edit check.bin to add pedestrians and vehicles
 - [CHG Editor](https://github.com/user-attachments/files/16273713/CHG.Editor.v1.1.%2B.v3.0.zip) - ???
 - [CHG Maker](https://github.com/user-attachments/files/16273714/CHG.Maker.zip) - ??? Some script creator/editor?
 
 ### 4ds tools
+.4ds is LS3D model file
 - [4ds Converter](https://github.com/user-attachments/files/16267266/4ds.Converter.2004.zip) - Converts .4ds model files to .obj and .wrl for use with 3D Modeling Programs (**16 BIT PROGRAM**)
 - [4ds Distance fix](https://github.com/user-attachments/files/16267267/4ds.Distance.Fix.2007.zip) - ??? Probably makes model visible on long distances?
 - [4ds From PS2 Converter](https://github.com/user-attachments/files/16267269/4ds.From.PS2.Converter.zip) - Converts .4ds models from Mafia on PS2 to models for use on Mafia PC
@@ -85,6 +94,7 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 - [Boz 4ds Full Manager](https://github.com/user-attachments/files/16267681/Boz.4ds.Full.Manager.zip) - Can edit all values of .4ds model
 
 ### 5ds tools
+.5ds is LS3D animation file
 - [5ds Converter](https://github.com/user-attachments/files/16267277/5ds.Converter.v1.1.zip) - Converts .3ds Animation file to .5ds Animation file for use with Mafia
 
 ### DTA extractors and packers
