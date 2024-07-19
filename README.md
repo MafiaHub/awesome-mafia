@@ -21,7 +21,7 @@ A curated list of awesome Mafia modding tools and resources.
 - [Tools](#tools)
   - [4ds tools](#4ds-tools)
   - [5ds tools](#5ds-tools)
--[Addons and Plugins](#addons-and-plugins)
+- [Addons and Plugins](#addons-and-plugins)
 - [Resources and Documentations](#resources-and-documentations)
 - [Contribute](#contribute)
 - [License](#license)
@@ -46,7 +46,7 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 Mafia has a special collision file called "tree.klz"
 - [TreeRE](https://github.com/user-attachments/files/16255223/TreeRE.Collection.zip) - Collision editor
 
-### Light map Editors and Creators
+### Lightmap Editors and Creators
 - [LS3D Lightmapper](https://github.com/user-attachments/files/16315522/LS3D.Lightmapper.zip) - 3D lightmap editor based on LS3D Sandbox
 - [LMToner](https://github.com/user-attachments/files/16315521/LMToner.v6.2.zip) - ??? Can create colored lightmaps?
 - [LmapGen 2](https://github.com/user-attachments/files/16315519/LmapGen.2.zip) - ??? Clones lightmap from .4ds model to another .4ds model?
@@ -129,7 +129,7 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 Addons and plugins for various 3D Modeling Programs for use with Mafia's file formats
 - [Noesis .4ds Plugin](https://github.com/user-attachments/files/16315885/noesis-plugins-master.zip) - Plugin for importing LS3D .4ds model
   - [Noesis .4ds Plugin on github by RoadTrain](https://github.com/RoadTrain/noesis-plugins)
-- [Blender Mafia 4ds Addon](https://github.com/user-attachments/files/16315886/BlenderMafia4ds-master.zip)
+- [Blender Mafia 4ds Addon](https://github.com/user-attachments/files/16315886/BlenderMafia4ds-master.zip) - Addon for importing and exporting Mafia .4ds model for Blender 2.8
   - [Blender Mafia 4ds Addon on github by djbozkosz](https://github.com/djbozkosz/BlenderMafia4ds)
 
 ## Resources and Documentations
