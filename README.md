@@ -21,6 +21,7 @@ A curated list of awesome Mafia modding tools and resources.
 - [Tools](#tools)
   - [4ds tools](#4ds-tools)
   - [5ds tools](#5ds-tools)
+-[Addons and Plugins](#addons-and-plugins)
 - [Resources and Documentations](#resources-and-documentations)
 - [Contribute](#contribute)
 - [License](#license)
@@ -60,6 +61,13 @@ Mafia uses a special scripting language, it has no official name but the communi
 Mafia's text is stored in tables with a .def extension
 - [CSVtoDEF](https://github.com/user-attachments/files/16238771/CSVtoDef.zip) - Converts .csv file sheet into Mafia .def text file
 - [Car Index Editor](https://github.com/user-attachments/files/16268038/Car.Index.Editor.zip) - ???
+- [M Editor](https://github.com/user-attachments/files/16315588/M.Editor.v1.12.zip) - Can edit various texts and values such as .def files, vehicle settings, loading screens, GUI and more
+- [Mafia Car Value Editor](https://github.com/user-attachments/files/16315594/Mafia.Car.Value.Editor.zip) - Can edit car settings, editor has English, Czech and Russian versions
+- [Mafia Editor (.def)](https://github.com/user-attachments/files/16315596/Mafia.Editor.def.v2.0.zip) - Can edit .def text files
+- [Mafia Text Editor](https://github.com/user-attachments/files/16315707/Mafia.Text.Editor.1.0.%2B.1.1.zip) - Can edit .def text files
+- [Mafia Value Editor](https://github.com/user-attachments/files/16315708/Mafia.Value.Editor.v0.0.6.81.zip) - Can edit Scene2.bin, car settings and weapon settings
+- [Mafia Weapons Editor](https://github.com/user-attachments/files/16315709/Mafia.Weapon.Editor.zip) - Can edit weapon settings
+- [Mafia Weapon Value Editor](https://github.com/user-attachments/files/16315710/Mafia.Weapon.Value.Editor.zip) - Can edit weapon settings
 
 ### Scene2.bin Editors
 Scene2.bin is a soul of every Mafia mission as it houses everything the player can interact with
@@ -76,6 +84,13 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 - [Check.bin Editor](https://github.com/user-attachments/files/16273704/Check.bin.Editor.EN%2BRU.zip) - Can edit and create check.bin navigation mesh for pedestrians, vehicles, enemies and more
 - [CheckRE](https://github.com/user-attachments/files/16273712/CheckRE.1.3.zip) - Can edit check.bin to add pedestrians and vehicles
 
+## DTA extractors and packers
+- [MafiaDataXTractor](https://github.com/user-attachments/files/16238944/MafiaDataXTractor.zip) - Most popular program for extracting .dta files
+- [DTAUnpacker](https://github.com/user-attachments/files/16268332/DTA.Unpacker.cline.zip) - Commandline program for unpacking .dta files
+  - [DTAUnpacker on github by jovan-s](https://github.com/jovan-s/DTAUnpacker)
+- [DTA Packer](https://github.com/user-attachments/files/16268337/DTAs.Packer.zip) - Adds modified files into .dta file (*documentation needed*)
+- [DTA Unpacker](https://github.com/user-attachments/files/16268335/DTA.Unpacker.zip) - Extract files from .dta files of Mafia, Hidden & Dangerous 2, Chameleon
+
 ## Tools
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
 - [Car Changer](https://github.com/user-attachments/files/16268035/Car.Changer.v1.4.zip) - ???
@@ -89,6 +104,11 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 - [GmfRE](https://github.com/user-attachments/files/16273703/GmfRE.v1.1.zip) - ??? Making custom font for Mafia?
 - [CHG Editor](https://github.com/user-attachments/files/16273713/CHG.Editor.v1.1.%2B.v3.0.zip) - ???
 - [CHG Maker](https://github.com/user-attachments/files/16273714/CHG.Maker.zip) - ??? Some script creator/editor?
+- [Mafia 1.0 Plus](https://github.com/user-attachments/files/16315590/Mafia.1.0.Plus.zip) - ???
+- [Mafia Car Adder and Remover](https://github.com/user-attachments/files/16315591/Mafia.Car.Adder.Remover.v0.62.Beta.zip) - ??? Can add new cars and remove cars?
+- [Mafia Car Installer](https://github.com/user-attachments/files/16315593/Mafia.Car.Installer.zip) - ??? Can add new cars?
+- [Mafia GetPos](https://github.com/user-attachments/files/16315597/Mafia.GetPos.zip) - ??? for Mafia 1.0 ONLY!
+- [Mafia Load Editor](https://github.com/user-attachments/files/16315705/Mafia.Load.Editor.v1.0.zip) - Can add and edit loading screens for missions
 
 ### 4ds tools
 .4ds is LS3D model file
@@ -105,13 +125,12 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 .5ds is LS3D animation file
 - [5ds Converter](https://github.com/user-attachments/files/16267277/5ds.Converter.v1.1.zip) - Converts .3ds Animation file to .5ds Animation file for use with Mafia
 
-### DTA extractors and packers
-- [MafiaDataXTractor](https://github.com/user-attachments/files/16238944/MafiaDataXTractor.zip) - Most popular program for extracting .dta files
-- [DTAUnpacker](https://github.com/user-attachments/files/16268332/DTA.Unpacker.cline.zip) - Commandline program for unpacking .dta files
-  - [DTAUnpacker on github by jovan-s](https://github.com/jovan-s/DTAUnpacker)
-- [DTA Packer](https://github.com/user-attachments/files/16268337/DTAs.Packer.zip) - Adds modified files into .dta file (*documentation needed*)
-- [DTA Unpacker](https://github.com/user-attachments/files/16268335/DTA.Unpacker.zip) - Extract files from .dta files of Mafia, Hidden & Dangerous 2, Chameleon
-
+## Addons and Plugins
+Addons and plugins for various 3D Modeling Programs for use with Mafia's file formats
+- [Noesis .4ds Plugin](https://github.com/user-attachments/files/16315885/noesis-plugins-master.zip) - Plugin for importing LS3D .4ds model
+  - [Noesis .4ds Plugin on github by RoadTrain](https://github.com/RoadTrain/noesis-plugins)
+- [Blender Mafia 4ds Addon](https://github.com/user-attachments/files/16315886/BlenderMafia4ds-master.zip)
+  - [Blender Mafia 4ds Addon on github by djbozkosz](https://github.com/djbozkosz/BlenderMafia4ds)
 
 ## Resources and Documentations
 
@@ -122,6 +141,7 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 - [BScriptView v6.0 Guide](https://github.com/user-attachments/files/16255436/BScriptView.6.0.pdf) - Guide for BScriptView v6.0
 - [Model Implementation Guide](https://github.com/user-attachments/files/16255438/Mr.Robville.s.Model.Implementation.Guide.2015.pdf) - Guide explains how to take a model from any 3D program and place it in an empty scene
 - [Empty Mission](https://github.com/user-attachments/files/16255595/Empty_Mission.zip) - Empty mission, useful for creating new map or mission from scratch
+- [Mafia Script Helper 2](https://github.com/user-attachments/files/16315706/Mafia.Script.Helper.v2.0.zip) - Mafia Script reference in Czech and English, similar to MSDR
 
 ## Contribute
 
