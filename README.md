@@ -39,8 +39,8 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 ### 3D Map Editors
 - [Mafcapone](https://github.com/user-attachments/files/16227907/Mafcapone.cl-1.zip) - Mission editor for Mafia
 - [Capone](https://github.com/user-attachments/files/16268034/Capone.1.0d1.zip) - Mission editor for Mafia 1.0 ONLY
-- [LS3D Sandbox](https://github.com/user-attachments/files/16315526/LS3D.Sandbox.zip) - **! Unsure of finctionality !**
-- [LS3D Sandbox 2](https://github.com/user-attachments/files/16315525/LS3D.Sandbox.2.zip) - **! Unsure of finctionality !**
+- [LS3D Sandbox](https://github.com/user-attachments/files/16315526/LS3D.Sandbox.zip) - **! Unsure of functionality !**
+- [LS3D Sandbox 2](https://github.com/user-attachments/files/16315525/LS3D.Sandbox.2.zip) - **! Unsure of functionality !**
 
 ### Collision Editors
 Mafia has a special collision file called "tree.klz"
