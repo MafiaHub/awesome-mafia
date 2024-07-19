@@ -104,7 +104,7 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 - [GmfRE](https://github.com/user-attachments/files/16273703/GmfRE.v1.1.zip) - ??? Making custom font for Mafia?
 - [CHG Editor](https://github.com/user-attachments/files/16273713/CHG.Editor.v1.1.%2B.v3.0.zip) - ???
 - [CHG Maker](https://github.com/user-attachments/files/16273714/CHG.Maker.zip) - ??? Some script creator/editor?
-- [Mafia 1.0 Plus] - Makes Mafia 1.0 playable alongside patched newer versions
+- Mafia 1.0 Plus - Makes Mafia 1.0 playable alongside patched newer versions
 : Delisted for copyright concerns
 - [Mafia Car Adder and Remover](https://github.com/user-attachments/files/16315591/Mafia.Car.Adder.Remover.v0.62.Beta.zip) - ??? Can add new cars and remove cars?
 - [Mafia Car Installer](https://github.com/user-attachments/files/16315593/Mafia.Car.Installer.zip) - ??? Can add new cars?
