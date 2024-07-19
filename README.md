@@ -11,6 +11,7 @@ A curated list of awesome Mafia modding tools and resources.
 - [Editors](#editors)
   - [3D Map editors](#3d-map-editors)
   - [Collision editors](#collision-editors)
+  - [Lightmap editors and creators](#lightmap-editors-and-creators)
   - [Script editors](#script-editors)
   - [Text and Value editors](#text-and-value-editors)
   - [Scene2.bin Editors](#scene2bin-editors)
@@ -37,10 +38,17 @@ To start modding Mafia, you need an arsenal of various editors, but what's even 
 ### 3D Map Editors
 - [Mafcapone](https://github.com/user-attachments/files/16227907/Mafcapone.cl-1.zip) - Mission editor for Mafia
 - [Capone](https://github.com/user-attachments/files/16268034/Capone.1.0d1.zip) - Mission editor for Mafia 1.0 ONLY
+- [LS3D Sandbox](https://github.com/user-attachments/files/16315526/LS3D.Sandbox.zip) - **! Unsure of finctionality !**
+- [LS3D Sandbox 2](https://github.com/user-attachments/files/16315525/LS3D.Sandbox.2.zip) - **! Unsure of finctionality !**
 
 ### Collision Editors
 Mafia has a special collision file called "tree.klz"
 - [TreeRE](https://github.com/user-attachments/files/16255223/TreeRE.Collection.zip) - Collision editor
+
+### Light map Editors and Creators
+- [LS3D Lightmapper](https://github.com/user-attachments/files/16315522/LS3D.Lightmapper.zip) - 3D lightmap editor based on LS3D Sandbox
+- [LMToner](https://github.com/user-attachments/files/16315521/LMToner.v6.2.zip) - ??? Can create colored lightmaps?
+- [LmapGen 2](https://github.com/user-attachments/files/16315519/LmapGen.2.zip) - ??? Clones lightmap from .4ds model to another .4ds model?
 
 ### Script Editors
 Mafia uses a special scripting language, it has no official name but the community adopted the name "Mafia Script"
