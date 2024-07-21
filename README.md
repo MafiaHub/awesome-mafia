@@ -50,6 +50,7 @@ Mafia has a special collision file called "tree.klz"
 - [LS3D Lightmapper](https://github.com/user-attachments/files/16315522/LS3D.Lightmapper.zip) - 3D lightmap editor based on LS3D Sandbox
 - [LMToner](https://github.com/user-attachments/files/16315521/LMToner.v6.2.zip) - ??? Can create colored lightmaps?
 - [LmapGen 2](https://github.com/user-attachments/files/16315519/LmapGen.2.zip) - ??? Clones lightmap from .4ds model to another .4ds model?
+- [Shadow Generator](https://github.com/user-attachments/files/16325145/Shadow.Generator.zip) - ???
 
 ### Script Editors
 Mafia uses a special scripting language, it has no official name but the community adopted the name "Mafia Script"
@@ -70,11 +71,15 @@ Mafia's text is stored in tables with a .def extension
 - [Mafia Weapon Value Editor](https://github.com/user-attachments/files/16315710/Mafia.Weapon.Value.Editor.zip) - Can edit weapon settings
 - [Predmety.def Editor](https://github.com/user-attachments/files/16324963/Predmety.def.Editor.zip) - Can edit predmety.def (file of weapon and item values)
 - [RHAM](https://github.com/user-attachments/files/16324964/RHAM.Collection.zip) - Can edit car values
+- [SSDM](https://github.com/user-attachments/files/16325147/SSDM.v1.0.zip) - Can edit textdb .def file (subtitles and text)
 
 ### Scene2.bin Editors
 Scene2.bin is a soul of every Mafia mission as it houses everything the player can interact with
 - [Boz Scene Tree Editor](https://github.com/user-attachments/files/16267683/Boz.Scene.Tree.Editor.zip) - Can edit all values of Scene2.bin mission file
   - [Boz Scene Tree Editor on github by djbozkosz](https://github.com/djbozkosz/BozSceneTreeEditor)
+- [Scena2 Editor 1](https://github.com/user-attachments/files/16325141/Scena2.Editor.1.zip) - Can edit Scene2.bin, tool is in Russian language
+- [Scene2 Manager](https://github.com/user-attachments/files/16325142/Scene2.bin.Manager.zip) - ???
+- [SCn2 Tractor](https://github.com/user-attachments/files/16325143/SCn2.Tractor.zip) - ???
  
 ### Cache.bin Editors
 - [Cache Fu!cker](https://github.com/user-attachments/files/16268030/Cache.Fucker.v1.0.zip) - ???
@@ -132,6 +137,10 @@ Road.bin is a file where car navigation network is stored
 - [Camera Mod](https://github.com/user-attachments/files/16325025/Camera.Mod.R2.zip) - Camera tool for making animated camera rail paths for Mafia 1.0 ONLY!
   - [Camera Mod on github by Romop5](https://github.com/Romop5/mafia-camera-mod)
 - [Rmorf.bin Editor](https://github.com/user-attachments/files/16325026/Rmorf.bin.Editor.zip) - Can edit Rmorf.bin for making animated objects like flags or sea waves, tool is in English and Russian
+- [Sound Maker](https://github.com/user-attachments/files/16325146/Sound.Maker.zip) - Can add sounds to a user specified sector and coordinates, outputs .dnc file for use with DCED 2
+- [Texture Resizer (by djbozkosz)](https://github.com/user-attachments/files/16325148/Texture.Resizer.zip) - A simple tool for batch converting textures to a power of two format
+- [Zazona Modeler v1.07b + Patch](https://github.com/user-attachments/files/16325149/Zazona.Modeler.v1.07b.%2B.Patch.zip) - Zazona Modeler, also known as ZModeler is an old 3D modeling program used for making custom Mafia models back in the day. This archive includes a Patch to version 1.07c and a Russian language convertor (Converts the editor language to Russian)
+- [SDPA 1](https://github.com/user-attachments/files/16325144/SDPA.1.zip) - ???
 
 ### 4ds tools
 .4ds is LS3D model file
