@@ -4,6 +4,8 @@ A curated list of awesome Mafia modding tools and resources.
 
 ## Contents
 
+### Mafia Modding Crew's Legacy(pages/MMC.md)
+
 ### [Cheats](pages/cheats.md)
 ### [Patches](pages/patches.md)
 
