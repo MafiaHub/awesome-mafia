@@ -17,6 +17,7 @@ A curated list of awesome Mafia modding tools and resources.
   - [Scene2.bin Editors](#scene2bin-editors)
   - [Cache.bin Editors](#cachebin-editors)
   - [Check.bin Editors](#checkbin-editors)
+  - [Road.bin Editors](roadbin-editors)
 - [DTA extractors and packers](#dta-extractors-and-packers)
 - [Tools](#tools)
   - [4ds tools](#4ds-tools)
@@ -164,6 +165,8 @@ Addons and plugins for various 3D Modeling Programs for use with Mafia's file fo
   - [Noesis .4ds Plugin on github by RoadTrain](https://github.com/RoadTrain/noesis-plugins)
 - [Blender Mafia 4ds Addon](https://github.com/user-attachments/files/16315886/BlenderMafia4ds-master.zip) - Addon for importing and exporting Mafia .4ds model for Blender 2.8
   - [Blender Mafia 4ds Addon on github by djbozkosz](https://github.com/djbozkosz/BlenderMafia4ds)
+- [3DS Max Import-Export Scripts](https://github.com/user-attachments/files/16325185/3DS.Max.Import-Export.Scripts.zip) - Import-Export Scripts for Mafia for 3DS MAX
+- [Blender 4ds Tools](https://github.com/user-attachments/files/16325187/Blender.4ds.Tools.v0.0.3.Test.zip) - Old addon for Blender
 
 ## Resources and Documentations
 
@@ -175,6 +178,9 @@ Addons and plugins for various 3D Modeling Programs for use with Mafia's file fo
 - [Model Implementation Guide](https://github.com/user-attachments/files/16255438/Mr.Robville.s.Model.Implementation.Guide.2015.pdf) - Guide explains how to take a model from any 3D program and place it in an empty scene
 - [Empty Mission](https://github.com/user-attachments/files/16255595/Empty_Mission.zip) - Empty mission, useful for creating new map or mission from scratch
 - [Mafia Script Helper 2](https://github.com/user-attachments/files/16315706/Mafia.Script.Helper.v2.0.zip) - Mafia Script reference in Czech and English, similar to MSDR
+- [Mafia Patcher](https://github.com/user-attachments/files/16325186/Mafia.Patcher.v1.2.0.zip) - Mafia Patcher is an ASI plugin for Mafia for modifying certain hardcoded aspects of the game and its engine
+- [Mafia Script Extensions](https://github.com/user-attachments/files/16325188/Mafia.Script.Extensions.v1.1.0.zip) - Adds new Mafia Script commands
+- [OCX Modules](https://github.com/user-attachments/files/16325189/OCX.Modules.zip) - OCX Modules that some tools need to function and are missing from the archives
 
 ## Contribute
 
