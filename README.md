@@ -82,9 +82,15 @@ Scene2.bin is a soul of every Mafia mission as it houses everything the player c
 - [CacheRE](https://github.com/user-attachments/files/16268033/CacheRE.v1.1.%2B.1.2.zip) - Can edit all values of cache.bin
 
 ### Check.bin Editors
-Check.bin is a file where the pedestrian and vehicle mesh networks are stored, without it, Lost Heaven would be a ghost town
+Check.bin is a file where the pedestrian and vehicle mesh networks are stored, it is used for custom navigation for car and humans entities
 - [Check.bin Editor](https://github.com/user-attachments/files/16273704/Check.bin.Editor.EN%2BRU.zip) - Can edit and create check.bin navigation mesh for pedestrians, vehicles, enemies and more
 - [CheckRE](https://github.com/user-attachments/files/16273712/CheckRE.1.3.zip) - Can edit check.bin to add pedestrians and vehicles
+
+### Road.bin Editors
+Road.bin is a file where car navigation network is stored
+- [Road.bin Creator](https://github.com/user-attachments/files/16325027/Road.bin.Creator.zip) - Can create Road.bin file from scratch from values given by the user, tool can be switched to English or Russian language
+- [Road.bin Editor (by djbozkosz)](https://github.com/user-attachments/files/16325116/Road.bin.Editor.zip) - Can edit car navigation network
+- [RoadRE](https://github.com/user-attachments/files/16325123/RoadRE.v0.1.zip) - ??? Can edit the speed and drive side of cars?
 
 ## DTA extractors and packers
 - [MafiaDataXTractor](https://github.com/user-attachments/files/16238944/MafiaDataXTractor.zip) - Most popular program for extracting .dta files
@@ -123,6 +129,9 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 - [MCHDSR](https://github.com/user-attachments/files/16324959/MCHDSR.v0.75.zip) - ???
 - [Orure](https://github.com/user-attachments/files/16324987/Orure.v0.9.zip) - ??? Weapon value editor?
 - [Pos Tool](https://github.com/user-attachments/files/16324961/Pos.Tool.zip) - ??? for Mafia 1.0 ONLY!
+- [Camera Mod](https://github.com/user-attachments/files/16325025/Camera.Mod.R2.zip) - Camera tool for making animated camera rail paths for Mafia 1.0 ONLY!
+  - [Camera Mod on github by Romop5](https://github.com/Romop5/mafia-camera-mod)
+- [Rmorf.bin Editor](https://github.com/user-attachments/files/16325026/Rmorf.bin.Editor.zip) - Can edit Rmorf.bin for making animated objects like flags or sea waves, tool is in English and Russian
 
 ### 4ds tools
 .4ds is LS3D model file
