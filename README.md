@@ -68,6 +68,8 @@ Mafia's text is stored in tables with a .def extension
 - [Mafia Value Editor](https://github.com/user-attachments/files/16315708/Mafia.Value.Editor.v0.0.6.81.zip) - Can edit Scene2.bin, car settings and weapon settings
 - [Mafia Weapons Editor](https://github.com/user-attachments/files/16315709/Mafia.Weapon.Editor.zip) - Can edit weapon settings
 - [Mafia Weapon Value Editor](https://github.com/user-attachments/files/16315710/Mafia.Weapon.Value.Editor.zip) - Can edit weapon settings
+- [Predmety.def Editor](https://github.com/user-attachments/files/16324963/Predmety.def.Editor.zip) - Can edit predmety.def (file of weapon and item values)
+- [RHAM](https://github.com/user-attachments/files/16324964/RHAM.Collection.zip) - Can edit car values
 
 ### Scene2.bin Editors
 Scene2.bin is a soul of every Mafia mission as it houses everything the player can interact with
@@ -110,6 +112,17 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 - [Mafia Car Installer](https://github.com/user-attachments/files/16315593/Mafia.Car.Installer.zip) - ??? Can add new cars?
 - [Mafia GetPos](https://github.com/user-attachments/files/16315597/Mafia.GetPos.zip) - ??? for Mafia 1.0 ONLY!
 - [Mafia Load Editor](https://github.com/user-attachments/files/16315705/Mafia.Load.Editor.v1.0.zip) - Can add and edit loading screens for missions
+- [Mafia Hack](https://github.com/user-attachments/files/16324869/MafiaHack.v1.03.zip) - MafiaHack is a development and cheating tool for Mafia
+- [MED](https://github.com/user-attachments/files/16324870/MED.Facial.Animation.Editor.zip) - Facial Animation Editor
+- [MemSup](https://github.com/user-attachments/files/16324871/MemSup.v1.0a.zip) - This tool let's you instantly exit Mafia by pressing the key bound to 'Objectives'. Works only in Freeride
+- [Mafia Menu Editor (by djbozkosz)](https://github.com/user-attachments/files/16324872/Menu.def.Editor.v1.00.djboz.zip) - Tool for adding, modifying and deleting menu items in the Mafia game, which are stored in menu.def file
+- [Mafia Menu Editor](https://github.com/user-attachments/files/16324873/Menu.def.Editor.zip) - Can edit .def menu file
+- [Metro and Salina Editor](https://github.com/user-attachments/files/16324943/Metro.and.Salina.Editor.v1.1.zip) - ??? Can edit above ground train and tram navigation points?
+- [MEXED](https://github.com/user-attachments/files/16324957/MEXED.zip) - ???
+- [Mexer](https://github.com/user-attachments/files/16324958/Mexer.v1.1.zip) - ??? Can edit game.exe and camera position?
+- [MCHDSR](https://github.com/user-attachments/files/16324959/MCHDSR.v0.75.zip) - ???
+- [Orure](https://github.com/user-attachments/files/16324987/Orure.v0.9.zip) - ??? Weapon value editor?
+- [Pos Tool](https://github.com/user-attachments/files/16324961/Pos.Tool.zip) - ??? for Mafia 1.0 ONLY!
 
 ### 4ds tools
 .4ds is LS3D model file
@@ -121,6 +134,7 @@ Check.bin is a file where the pedestrian and vehicle mesh networks are stored, w
 - [4ds Unlocker](https://github.com/user-attachments/files/16267274/4ds.Unlocker.zip) - Makes .4ds model file able to be edited with Zazona Modeler and possibly other 3D Modeling Programs
 - [4ds View](https://github.com/user-attachments/files/16267276/4ds.View.v8.3.zip) - .4ds Model viewer
 - [Boz 4ds Full Manager](https://github.com/user-attachments/files/16267681/Boz.4ds.Full.Manager.zip) - Can edit all values of .4ds model
+- [Mafia World & Model Viewer](https://github.com/user-attachments/files/16324868/Mafia.World.Model.Viewer.v0.5.0.zip) - .4ds model and mission viewer
 
 ### 5ds tools
 .5ds is LS3D animation file
