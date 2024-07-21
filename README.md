@@ -17,7 +17,7 @@ A curated list of awesome Mafia modding tools and resources.
   - [Scene2.bin Editors](#scene2bin-editors)
   - [Cache.bin Editors](#cachebin-editors)
   - [Check.bin Editors](#checkbin-editors)
-  - [Road.bin Editors](roadbin-editors)
+  - [Road.bin Editors](#roadbin-editors)
 - [DTA extractors and packers](#dta-extractors-and-packers)
 - [Tools](#tools)
   - [4ds tools](#4ds-tools)
