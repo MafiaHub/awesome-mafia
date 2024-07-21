@@ -178,9 +178,11 @@ Addons and plugins for various 3D Modeling Programs for use with Mafia's file fo
 - [Model Implementation Guide](https://github.com/user-attachments/files/16255438/Mr.Robville.s.Model.Implementation.Guide.2015.pdf) - Guide explains how to take a model from any 3D program and place it in an empty scene
 - [Empty Mission](https://github.com/user-attachments/files/16255595/Empty_Mission.zip) - Empty mission, useful for creating new map or mission from scratch
 - [Mafia Script Helper 2](https://github.com/user-attachments/files/16315706/Mafia.Script.Helper.v2.0.zip) - Mafia Script reference in Czech and English, similar to MSDR
-- [Mafia Patcher](https://github.com/user-attachments/files/16325186/Mafia.Patcher.v1.2.0.zip) - Mafia Patcher is an ASI plugin for Mafia for modifying certain hardcoded aspects of the game and its engine
+- [Mafia Patcher](https://github.com/user-attachments/files/16325186/Mafia.Patcher.v1.2.0.zip) - Mafia Patcher is an ASI plugin for Mafia for modifying certain hardcoded aspects of the game and its engine. Mafia 1.1 is not supported
 - [Mafia Script Extensions](https://github.com/user-attachments/files/16325188/Mafia.Script.Extensions.v1.1.0.zip) - Adds new Mafia Script commands
 - [OCX Modules](https://github.com/user-attachments/files/16325189/OCX.Modules.zip) - OCX Modules that some tools need to function and are missing from the archives
+- [Ultimate ASI Loader](https://github.com/user-attachments/files/16325281/ASI.Loader.-.binkw32.zip) - ASI Loader is a modified .dll file for loading ASI mods, such ASI mods do not require the game having extracted .dta files
+  - [Ultimate ASI Loader on github by ThirteenAG](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
 
 ## Contribute
 
