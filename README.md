@@ -1,6 +1,6 @@
 # Awesome Mafia Modding tools and Resources
 
-A curated list of awesome Mafia modding tools and resources.
+A curated list of Mafia Tools and Resources brought to you by MafiaHub.
 
 ## Contents
 
@@ -108,6 +108,7 @@ Road.bin is a file where car navigation network is stored
 - [DTA Unpacker](https://github.com/user-attachments/files/16268335/DTA.Unpacker.zip) - Extract files from .dta files of Mafia, Hidden & Dangerous 2, Chameleon
 
 ## Tools
+- [Mafia Console](https://github.com/user-attachments/files/16337671/MafiaCon-v1.0.1.zip) - Mafia Console, also known as MafiaCon. Adds a console to Mafia with many commands and functions. Latest version exclusively brought to you by MafiaHub
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
 - [Car Changer](https://github.com/user-attachments/files/16268035/Car.Changer.v1.4.zip) - ???
 - [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
