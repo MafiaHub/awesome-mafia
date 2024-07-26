@@ -1,6 +1,10 @@
-# Awesome Mafia Modding tools and Resources
+# Awesome Mafia Tools and Resources
 
+[<p align="center"><img width="360px" src="https://github.com/user-attachments/assets/302d6c37-5b60-4d44-8804-9fb5fc59e83a"></p>]([https://link-to-your-URL/](https://mafiahub.dev/home))
+
+<p align="center">
 A curated list of Mafia Tools and Resources brought to you by MafiaHub.
+</p>
 
 ## Contents
 
