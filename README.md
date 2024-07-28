@@ -140,7 +140,7 @@ Road.bin is a file where car navigation network is stored
 - [Mafia Menu Editor](https://github.com/user-attachments/files/16324873/Menu.def.Editor.zip) - Can edit .def menu file
 - [Metro and Salina Editor](https://github.com/user-attachments/files/16324943/Metro.and.Salina.Editor.v1.1.zip) - ??? Can edit above ground train and tram navigation points?
 - [MEXED](https://github.com/user-attachments/files/16324957/MEXED.zip) - ???
-- [Mexer](https://github.com/user-attachments/files/16324958/Mexer.v1.1.zip) - ??? Can edit game.exe and camera position?
+- [Mexer](https://github.com/user-attachments/files/16404615/Mexer.v1.1.zip) - Can edit camera position, tool is in Russian and English language. Mafia 1.2 is not supported
 - [MCHDSR](https://github.com/user-attachments/files/16324959/MCHDSR.v0.75.zip) - ???
 - [Orure](https://github.com/user-attachments/files/16324987/Orure.v0.9.zip) - ??? Weapon value editor?
 - [Pos Tool](https://github.com/user-attachments/files/16324961/Pos.Tool.zip) - ??? for Mafia 1.0 ONLY!
