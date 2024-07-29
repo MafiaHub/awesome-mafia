@@ -149,7 +149,7 @@ Road.bin is a file where car navigation network is stored
 - [Rmorf.bin Editor](https://github.com/user-attachments/files/16325026/Rmorf.bin.Editor.zip) - Can edit Rmorf.bin for making animated objects like flags or sea waves, tool is in English and Russian
 - [Sound Maker](https://github.com/user-attachments/files/16325146/Sound.Maker.zip) - Can add sounds to a user specified sector and coordinates, outputs .dnc file for use with DCED 2
 - [Texture Resizer (by djbozkosz)](https://github.com/user-attachments/files/16325148/Texture.Resizer.zip) - A simple tool for batch converting textures to a power of two format
-- [Zazona Modeler v1.07b + Patch](https://github.com/user-attachments/files/16325149/Zazona.Modeler.v1.07b.%2B.Patch.zip) - Zazona Modeler, also known as ZModeler is an old 3D modeling program used for making custom Mafia models back in the day. This archive includes a Patch to version 1.07c and a Russian language convertor (Converts the editor language to Russian)
+- [Zanoza Modeler v1.07b + Patch](https://github.com/user-attachments/files/16418271/Zanoza.Modeler.v1.07b.%2B.Patch.zip) - Zanoza Modeler, also known as ZModeler is an old 3D modeling program used for making custom Mafia models back in the day. This archive includes a Patch to version 1.07c and a Russian language convertor (Converts the editor language to Russian)
 - [SDPA 1](https://github.com/user-attachments/files/16325144/SDPA.1.zip) - ???
 
 ### 4ds tools
@@ -159,7 +159,7 @@ Road.bin is a file where car navigation network is stored
 - [4ds From PS2 Converter](https://github.com/user-attachments/files/16267269/4ds.From.PS2.Converter.zip) - Converts .4ds models from Mafia on PS2 to models for use on Mafia PC
 - [4ds Texture Manager](https://github.com/user-attachments/files/16267271/4ds.Manager.Textures.zip) - ???
 - [Light Sector Cleaner](https://github.com/user-attachments/files/16267273/4ds.Sector.Cleaner.zip) - ??? Removes light sources from sectors?
-- [4ds Unlocker](https://github.com/user-attachments/files/16267274/4ds.Unlocker.zip) - Makes .4ds model file able to be edited with Zazona Modeler and possibly other 3D Modeling Programs
+- [4ds Unlocker](https://github.com/user-attachments/files/16267274/4ds.Unlocker.zip) - Makes .4ds model file able to be edited with Zanoza Modeler and possibly other 3D Modeling Programs
 - [4ds View](https://github.com/user-attachments/files/16267276/4ds.View.v8.3.zip) - .4ds Model viewer
 - [Boz 4ds Full Manager](https://github.com/user-attachments/files/16267681/Boz.4ds.Full.Manager.zip) - Can edit all values of .4ds model
 - [Mafia World & Model Viewer](https://github.com/user-attachments/files/16324868/Mafia.World.Model.Viewer.v0.5.0.zip) - .4ds model and mission viewer
@@ -181,7 +181,7 @@ Addons and plugins for various 3D Modeling Programs for use with Mafia's file fo
 
 - [MSDR CZ](https://github.com/user-attachments/files/16228218/MSDR.CZ.pdf) - Mafia Script & Data Reference in Czech language
 - [3D Model List](https://github.com/user-attachments/files/16238692/3D.Model.List.zip) - Characters Model list in English and Russian, Model list in Russian
-- [Zazona Modeler basics (Czech)](https://github.com/user-attachments/files/16238734/zaklady_zmodeleru.pdf) - Basic Guide for Zmodeler v1.07b/c in Czech language
+- [Zanoza Modeler basics (Czech)](https://github.com/user-attachments/files/16238734/zaklady_zmodeleru.pdf) - Basic Guide for Zmodeler v1.07b/c in Czech language
 - [Cutscene Guide (Czech)](https://github.com/user-attachments/files/16238732/navod_cutsceny.pdf) - Guide for In-Game cutscenes in Czech language
 - [BScriptView v6.0 Guide](https://github.com/user-attachments/files/16255436/BScriptView.6.0.pdf) - Guide for BScriptView v6.0
 - [Model Implementation Guide](https://github.com/user-attachments/files/16255438/Mr.Robville.s.Model.Implementation.Guide.2015.pdf) - Guide explains how to take a model from any 3D program and place it in an empty scene
