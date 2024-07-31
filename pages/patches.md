@@ -1,5 +1,6 @@
 # Patches
-_Only official and original Patches are listed. You will require a No-CD crack to run the game if you install any of these patches_
+_Only official and original Patches are listed. You will require a No-CD crack or SafeDiscShim to run the game on modern operating system if you install any of these patches_
+
 - Patch 1.1 was available only for English, German, French and Polish versions of Mafia.
 - Patch 1.2 was available for Czech, English, German, French, Polish, Italian, Brazilian, Japanese and Spanish versions of Mafia.
 - Patch 1.2 didn't internally exist, it was created as Patch 1.3. Why it got mislabeled as Patch 1.2 is unknown.
