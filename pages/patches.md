@@ -28,7 +28,7 @@ _Only official and original Patches are listed. You will require a No-CD crack o
 - [English](https://github.com/user-attachments/files/16235345/mafia_patch_1.3_eng.zip)
 
 ## Officialy announced changes
-_Patch 1.2 wasn't released in some regions. Changes for 1.1 also apply for 1.2_
+_Patch 1.1 wasn't released in some regions. Changes for 1.1 also apply for 1.2_
 - Speaker selection fix in the Mafia Setup
 - Matrox Parhelia surround gaming support
 - FSAA autodetection fix for new ATI cards
