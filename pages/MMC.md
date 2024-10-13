@@ -19,8 +19,12 @@
 ## Other
 - WIP
 
-## DCED 2 Source Code
-- WIP
+## mLib
+- Mafia library used by DCED 2
+- [GitHub Archive](https://github.com/Richard01CZ/mLib)
 
-### DCED German Language Pack
-- WIP
+## DCED 2 Source Code
+- [GitHub Archive](https://github.com/Richard01CZ/DCED2)
+
+### Other DCED stuff
+- [GitHub Archive](https://github.com/Richard01CZ/DCED_misc)
