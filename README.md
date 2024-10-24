@@ -12,6 +12,7 @@ A curated list of Mafia Tools and Resources brought to you by MafiaHub.
 
 ### [Mafia Modding Crew's Legacy](pages/MMC.md)
 
+### [Mafia: Oakwood](pages/OakwoodMP.md)
 ### [Cheats](pages/cheats.md)
 ### [Patches](pages/patches.md)
 
