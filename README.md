@@ -80,7 +80,7 @@ Mafia's text is stored in tables with a .def extension
 - [Mafia Weapons Editor](https://github.com/user-attachments/files/16315709/Mafia.Weapon.Editor.zip) - Can edit weapon settings
 - [Mafia Weapon Value Editor](https://github.com/user-attachments/files/16315710/Mafia.Weapon.Value.Editor.zip) - Can edit weapon settings
 - [Predmety.def Editor](https://github.com/user-attachments/files/16324963/Predmety.def.Editor.zip) - Can edit predmety.def (file of weapon and item values)
-- [RHAM](https://github.com/user-attachments/files/16324964/RHAM.Collection.zip) - Can edit car values
+- [RHAM](https://github.com/user-attachments/files/16324964/RHAM.Collection.zip) - Can edit car values, to change language to english, create "lang.txt" where RHAM.exe is stored with text **en** inside the file
 - [SSDM](https://github.com/user-attachments/files/16325147/SSDM.v1.0.zip) - Can edit textdb .def file (subtitles and text)
 
 ### Scene2.bin Editors
