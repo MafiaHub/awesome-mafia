@@ -57,7 +57,7 @@ Mafia has a special collision file called "tree.klz"
 - [TreeRE](https://github.com/user-attachments/files/16255223/TreeRE.Collection.zip) - Collision editor
 
 ### Lightmap Editors and Creators
-- [LS3D Lightmapper](https://github.com/user-attachments/files/16315522/LS3D.Lightmapper.zip) - 3D lightmap editor based on LS3D Sandbox
+- [LS3D Lightmapper](https://github.com/user-attachments/files/16315522/LS3D.Lightmapper.zip) - Most advanced 3D lightmap editor based on LS3D Sandbox (supports ray-tracing Lightmap Generation)
 - [LMToner](https://github.com/user-attachments/files/16315521/LMToner.v6.2.zip) - ??? Can create colored lightmaps?
 - [LmapGen 2](https://github.com/user-attachments/files/16315519/LmapGen.2.zip) - ??? Clones lightmap from .4ds model to another .4ds model?
 - [Shadow Generator](https://github.com/user-attachments/files/16325145/Shadow.Generator.zip) - ???
