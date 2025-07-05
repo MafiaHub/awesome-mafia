@@ -154,6 +154,7 @@ Road.bin is a file where car navigation network is stored
 - [Texture Resizer (by djbozkosz)](https://github.com/user-attachments/files/16325148/Texture.Resizer.zip) - A simple tool for batch converting textures to a power of two format
 - [Zanoza Modeler v1.07b + Patch](https://github.com/user-attachments/files/16418271/Zanoza.Modeler.v1.07b.%2B.Patch.zip) - Zanoza Modeler, also known as ZModeler is an old 3D modeling program used for making custom Mafia models back in the day. This archive includes a Patch to version 1.07c and a Russian language convertor (Converts the editor language to Russian)
 - [SDPA 1](https://github.com/user-attachments/files/16325144/SDPA.1.zip) - ???
+- [MFEM v2](https://www.mediafire.com/file/kezqftiwblq1v3a/MFEM.zip/file) - Facial Animation Editor / Expression Maker. Generates facial animation from a .wav file! For Mafia 1.1/1.2/1.3 ONLY!
 
 ### 4ds tools
 .4ds is LS3D model file
