@@ -70,6 +70,7 @@ Mafia uses a special scripting language, it has no official name but the communi
 
 ### Text and Value editors
 Mafia's text is stored in tables with a .def extension
+- [MTE](https://github.com/user-attachments/files/21073867/MTE.zip) - Simple text editor with custom formatting for easy use, functions like Microsoft Notepad. For Mafia 1.1/1.2/1.3 ONLY!
 - [CSVtoDEF](https://github.com/user-attachments/files/16238771/CSVtoDef.zip) - Converts .csv file sheet into Mafia .def text file
 - [Car Index Editor](https://github.com/user-attachments/files/16268038/Car.Index.Editor.zip) - ???
 - [M Editor](https://github.com/user-attachments/files/16315588/M.Editor.v1.12.zip) - Can edit various texts and values such as .def files, vehicle settings, loading screens, GUI and more
@@ -98,6 +99,7 @@ Scene2.bin is a soul of every Mafia mission as it houses everything the player c
 
 ### Check.bin Editors
 Check.bin is a file where the pedestrian and vehicle mesh networks are stored, it is used for custom navigation for car and humans entities
+- [CheckBIN Editor](https://github.com/user-attachments/files/21073868/CheckBIN.zip) - Advanced program that lets you create check.bin directly in-game. Connect to mafia and press P to make a check point. Then use the editor below to connect and edit each checkpoint to finish editing. For Mafia 1.1/1.2/1.3 ONLY!
 - [Check.bin Editor](https://github.com/user-attachments/files/16273704/Check.bin.Editor.EN%2BRU.zip) - Can edit and create check.bin navigation mesh for pedestrians, vehicles, enemies and more
 - [CheckRE](https://github.com/user-attachments/files/16273712/CheckRE.1.3.zip) - Can edit check.bin to add pedestrians and vehicles
 
