@@ -40,6 +40,7 @@ A curated list of Mafia Tools and Resources brought to you by MafiaHub.
 
 - [MafiaHub](https://discord.gg/eBQ4QHX) - MafiaHub Community Discord server
 - [Greavesy's Toolbox](https://discord.gg/HFCksVXXWy) - Home of Toolkits and Community Discord server
+- [Mafia Connected](https://discord.gg/rtA9kpuQzf) - Home of Mafia Connected, a Mafia multiplayer mod
 
 ## Editors
 To start modding Mafia, you need an arsenal of various editors, but what's even more important... You **NEED** MafiaDataXTractor
@@ -91,7 +92,7 @@ Scene2.bin is a soul of every Mafia mission as it houses everything the player c
 - [Scena2 Editor 1](https://github.com/user-attachments/files/16325141/Scena2.Editor.1.zip) - Can edit Scene2.bin, tool is in Russian language
 - [Scene2 Manager](https://github.com/user-attachments/files/16325142/Scene2.bin.Manager.zip) - ???
 - [SCn2 Tractor](https://github.com/user-attachments/files/16325143/SCn2.Tractor.zip) - ???
- 
+
 ### Cache.bin Editors
 - [Cache Fu!cker](https://github.com/user-attachments/files/16268030/Cache.Fucker.v1.0.zip) - ???
 - [Cache.bin Editor](https://github.com/user-attachments/files/16268032/Cache.bin.Editor.zip) - Can edit position and values of cache.bin
@@ -180,6 +181,7 @@ Addons and plugins for various 3D Modeling Programs for use with Mafia's file fo
   - [Blender Mafia 4ds Addon on github by djbozkosz](https://github.com/djbozkosz/BlenderMafia4ds)
 - [3DS Max Import-Export Scripts](https://github.com/user-attachments/files/16325185/3DS.Max.Import-Export.Scripts.zip) - Import-Export Scripts for Mafia for 3DS MAX
 - [Blender 4ds Tools](https://github.com/user-attachments/files/16325187/Blender.4ds.Tools.v0.0.3.Test.zip) - Old addon for Blender
+- [Mafia Connected](https://mafiaconnected.com/downloads) - Mafia Connected, a scriptable multiplayer modification that lets you play Mafia with your friends online
 
 ## Resources and Documentations
 
