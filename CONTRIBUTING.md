@@ -14,7 +14,7 @@ Ensure your pull request adheres to the following guidelines:
 	- The description should not be a marketing tagline.
 	- The description should not be a title case.
 	- The description should not repeat the item title.
-	- The description should start with a capital and end with a full stop/period.
+	- The description should end with a full stop/period.
 - Check your spelling and grammar. You can use ChatGPT for this!
 - New categories or improvements to the existing categorization are welcome but should be done in a separate pull request.
 - Use [Asset Dump issue](https://github.com/MafiaHub/awesome-mafia/issues/1) as a storage space for your archives, so that downloads are localised to GitHub repository and we avoid possible dead links. (Always ensure authors are okay with us hosting these files and give proper attribution to them)
