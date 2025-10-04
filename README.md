@@ -119,7 +119,7 @@ Road.bin is a file where car navigation network is stored
 ## Tools
 - [Mafia Console](https://github.com/user-attachments/files/16337671/MafiaCon-v1.0.1.zip) - Mafia Console, also known as MafiaCon. Adds a console to Mafia with many commands and functions. Latest version exclusively brought to you by MafiaHub
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
-- [Mafia Version Changer](https://github.com/user-attachments/files/22702555/MafiaVersionPatcher.zip) - Can change the version of Mafia to 1.0, 1.1, 1.2
+- [Mafia Version Patcher](https://github.com/user-attachments/files/22702555/MafiaVersionPatcher.zip) - Can change the version of Mafia to 1.0, 1.1, 1.2
 - [Car Changer](https://github.com/user-attachments/files/16268035/Car.Changer.v1.4.zip) - ???
 - [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
 - [def2bbrd](https://github.com/user-attachments/files/16268316/def2bbrd.v0.5.zip) - ???
