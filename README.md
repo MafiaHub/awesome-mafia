@@ -119,6 +119,7 @@ Road.bin is a file where car navigation network is stored
 ## Tools
 - [Mafia Console](https://github.com/user-attachments/files/16337671/MafiaCon-v1.0.1.zip) - Mafia Console, also known as MafiaCon. Adds a console to Mafia with many commands and functions. Latest version exclusively brought to you by MafiaHub
 - [Mafia DTA Extractor Tool](https://github.com/user-attachments/files/16255367/Mafia.DTA.Extractor.zip) - Exctracts Mafia's .dta files (includes preset extraction keys for billboard and patch DTA files and all other common DTA files)
+- [Mafia Version Changer](https://github.com/user-attachments/files/22702555/MafiaVersionPatcher.zip) - Can change the version of Mafia to 1.0, 1.1, 1.2
 - [Car Changer](https://github.com/user-attachments/files/16268035/Car.Changer.v1.4.zip) - ???
 - [TACO-M](https://github.com/user-attachments/files/16238359/TACO-M.zip) - Mafia memory manipulation tool
 - [def2bbrd](https://github.com/user-attachments/files/16268316/def2bbrd.v0.5.zip) - ???
@@ -130,8 +131,7 @@ Road.bin is a file where car navigation network is stored
 - [GmfRE](https://github.com/user-attachments/files/16273703/GmfRE.v1.1.zip) - ??? Making custom font for Mafia?
 - [CHG Editor](https://github.com/user-attachments/files/16273713/CHG.Editor.v1.1.%2B.v3.0.zip) - ???
 - [CHG Maker](https://github.com/user-attachments/files/16273714/CHG.Maker.zip) - ??? Some script creator/editor?
-- Mafia 1.0 Plus - Makes Mafia 1.0 playable alongside patched newer versions
-: Delisted for copyright concerns
+- [Mafia 1.0 Plus](https://github.com/user-attachments/files/22702558/Mafia.1.0.Plus.zip) - Allows for version 1.0 to be present in the same directory as newer patched version of Mafia
 - [Mafia Car Adder and Remover](https://github.com/user-attachments/files/16315591/Mafia.Car.Adder.Remover.v0.62.Beta.zip) - ??? Can add new cars and remove cars?
 - [Mafia Car Installer](https://github.com/user-attachments/files/16315593/Mafia.Car.Installer.zip) - ??? Can add new cars?
 - [Mafia GetPos](https://github.com/user-attachments/files/16315597/Mafia.GetPos.zip) - ??? for Mafia 1.0 ONLY!
