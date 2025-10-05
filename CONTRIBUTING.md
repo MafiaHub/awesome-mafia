@@ -8,8 +8,9 @@ Ensure your pull request adheres to the following guidelines:
 - The pull request title should be in the following format: `Add Project Name`
 	- `Add` not `add`
 - The suggestion should be in English.
-- Use the following format: `[Title](link) - Description.`
+- Use the following format: `[Title](link) - Description`
 - Additions should be added to the bottom of the relevant category.
+	- Any additions that are a mod for the game will not be added.
 - Keep descriptions short and simple but descriptive.
 	- The description should not be a marketing tagline.
 	- The description should not be a title case.
