@@ -40,6 +40,7 @@ A curated list of Mafia Tools and Resources brought to you by MafiaHub.
 
 - [MafiaHub](https://discord.gg/eBQ4QHX) - MafiaHub Community Discord server
 - [Greavesy's Toolbox](https://discord.gg/HFCksVXXWy) - Home of Toolkits and Community Discord server
+- [Mafia Connected](https://discord.gg/rtA9kpuQzf) - Home of Mafia Connected, a multiplayer community
 
 ## Editors
 To start modding Mafia, you need an arsenal of various editors, but what's even more important... You **NEED** MafiaDataXTractor
