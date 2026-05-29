@@ -67,7 +67,6 @@ Mafia has a special collision file called "tree.klz"
 Mafia uses a special scripting language, it has no official name but the community adopted the name "Mafia Script"
 - [Project Angelo](https://github.com/user-attachments/files/16238313/Project_Angelo_script_inspector.zip) - In-game script editor and debugger for Mafia 1.0 ONLY!
 - [BScriptView](https://github.com/user-attachments/files/16255201/BScriptView.Collection.zip) - Scene2.bin editor and Script editor
-- [DCED 2](https://github.com/user-attachments/files/16268313/DCED2.zip) - Scene2 editor and Script editor, also known as "DONCity Editor 2"
 
 ### Text and Value editors
 Mafia's text is stored in tables with a .def extension
@@ -89,6 +88,7 @@ Mafia's text is stored in tables with a .def extension
 Scene2.bin is a soul of every Mafia mission as it houses everything the player can interact with
 - [Boz Scene Tree Editor](https://github.com/user-attachments/files/16267683/Boz.Scene.Tree.Editor.zip) - Can edit all values of Scene2.bin mission file
   - [Boz Scene Tree Editor on github by djbozkosz](https://github.com/djbozkosz/BozSceneTreeEditor)
+- [DCED 2](https://github.com/user-attachments/files/16268313/DCED2.zip) - Scene2 editor and Script editor, also known as "DONCity Editor 2"
 - [Scena2 Editor 1](https://github.com/user-attachments/files/16325141/Scena2.Editor.1.zip) - Can edit Scene2.bin, tool is in Russian language
 - [Scene2 Manager](https://github.com/user-attachments/files/16325142/Scene2.bin.Manager.zip) - ???
 - [SCn2 Tractor](https://github.com/user-attachments/files/16325143/SCn2.Tractor.zip) - ???
